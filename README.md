@@ -1,6 +1,6 @@
 # Activity 3: Program Memory, Pointers, Malloc
 
-## Put name here
+## Adam Lail, Noel Raehl
 
 Folder: `activities_early_pointers`
 
