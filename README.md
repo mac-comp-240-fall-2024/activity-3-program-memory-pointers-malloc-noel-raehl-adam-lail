@@ -106,6 +106,8 @@ before the `return` statement
 (In the references below is a link to a document that can help you to include
 images in Github README files)
 
+![Task 1](https://github.com/mac-comp-240-fall-2024/activity-3-program-memory-pointers-malloc-noel-raehl-adam-lail/blob/main/task1.jpg?raw=true)
+
 ### Task 2: Pointers for arrays and dynamic allocation
 
 For this task you will explore an example that creates a statically-declared
